@@ -1,0 +1,18 @@
+{
+  "name": "cruise-family-trip-marketplace",
+  "owner": {
+    "name": "craftwave"
+  },
+  "metadata": {
+    "description": "cruise-family-trip 的 Claude Code 插件市场，由CruiseSkillBridge 发布。",
+    "version": "0.1.0"
+  },
+  "plugins": [
+    {
+      "name": "cruise-family-trip",
+      "source": "./plugins/cruise-family-trip",
+      "description": "适合家庭出游的邮轮产品推荐，满足全家人的旅行需求和乐趣。",
+      "version": "0.1.0"
+    }
+  ]
+}
